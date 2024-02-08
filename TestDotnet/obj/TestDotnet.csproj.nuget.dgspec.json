@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\snowb\\OneDrive\\Escritorio\\CETI_ING\\2do Semestre\\POO\\TestDotnet\\TestDotnet.csproj": {}
+    "C:\\Users\\snowb\\OneDrive\\Escritorio\\CETI_ING\\2do Semestre\\POO\\Practica1-POO\\TestDotnet\\TestDotnet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\snowb\\OneDrive\\Escritorio\\CETI_ING\\2do Semestre\\POO\\TestDotnet\\TestDotnet.csproj": {
+    "C:\\Users\\snowb\\OneDrive\\Escritorio\\CETI_ING\\2do Semestre\\POO\\Practica1-POO\\TestDotnet\\TestDotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\snowb\\OneDrive\\Escritorio\\CETI_ING\\2do Semestre\\POO\\TestDotnet\\TestDotnet.csproj",
+        "projectUniqueName": "C:\\Users\\snowb\\OneDrive\\Escritorio\\CETI_ING\\2do Semestre\\POO\\Practica1-POO\\TestDotnet\\TestDotnet.csproj",
         "projectName": "TestDotnet",
-        "projectPath": "C:\\Users\\snowb\\OneDrive\\Escritorio\\CETI_ING\\2do Semestre\\POO\\TestDotnet\\TestDotnet.csproj",
+        "projectPath": "C:\\Users\\snowb\\OneDrive\\Escritorio\\CETI_ING\\2do Semestre\\POO\\Practica1-POO\\TestDotnet\\TestDotnet.csproj",
         "packagesPath": "C:\\Users\\snowb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\snowb\\OneDrive\\Escritorio\\CETI_ING\\2do Semestre\\POO\\TestDotnet\\obj\\",
+        "outputPath": "C:\\Users\\snowb\\OneDrive\\Escritorio\\CETI_ING\\2do Semestre\\POO\\Practica1-POO\\TestDotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\snowb\\AppData\\Roaming\\NuGet\\NuGet.Config"
